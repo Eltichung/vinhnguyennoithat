@@ -241,7 +241,7 @@ header {
   transition: 0.25s linear;
 }
 .product-list-item:hover::before {
-  animation: hover 2s linear infinite;
+  animation: hover 1.5s linear infinite;
 }
 .product-list-item:hover img {
   transform: scale(110%);
