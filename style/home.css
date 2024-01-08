@@ -89,7 +89,7 @@ header {
 
 .banner {
   background-color: #2b2a31;
-  background: url("asset/img/1.png") no-repeat right top;
+  background: url("/asset/img/1.png") no-repeat right top;
   width: 100%;
   height: 900px;
   position: relative;
